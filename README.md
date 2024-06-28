@@ -14,7 +14,7 @@ Zbiór może zostać opisany tym równaniem rekurencyjnym:
 
 ![image](https://github.com/NatanSwierczynski/CUDA/assets/106707211/dbc2d43c-f714-4afa-b321-16f41dfb937c)
 
-    gdzie p oznacza dowolną liczbę zespoloną
+gdzie p oznacza dowolną liczbę zespoloną
 
 Jeśli wynik nie dąży do nieskończoności to dany punkt należy do zbioru
 Wszystko co należy do zbioru Mandelbrota musi być w odległości 2 od środka płaszczyzny.
