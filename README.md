@@ -28,7 +28,6 @@ Sprzęt wykorzystany do obliczeń:
 - CPU [intel core i5-9600k 3,7GHz, 6 rdzeni]
 
 Dzialanie aplikacji
-Prosty UI:
 ![image](https://github.com/NatanSwierczynski/CUDA/assets/106707211/14318b66-7d80-430d-86ba-c1a6bba16da0)
 
 ![image](https://github.com/NatanSwierczynski/CUDA/assets/106707211/27971efc-f43a-4dd5-bb42-ec3b5ff00e76)
